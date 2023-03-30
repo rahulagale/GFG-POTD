@@ -1,1 +1,1 @@
-# Here you find the solutions of GeeksforGeeks Problem of the day
+# Here you find the solutions to GeeksforGeeks Problem of the Day.
